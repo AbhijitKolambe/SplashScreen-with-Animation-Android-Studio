@@ -1,0 +1,12 @@
+Android Activity Lifecycle methods
+Let's see the 7 lifecycle methods of android activity.
+
+Method	Description
+onCreate	called when activity is first created.
+onStart	called when activity is becoming visible to the user.
+onResume	called when activity will start interacting with the user.
+onPause	called when activity is not visible to the user.
+onStop	called when activity is no longer visible to the user.
+onRestart	called after your activity is stopped, prior to start.
+onDestroy	called before the activity is destroyed.
+android activity lifecycle
